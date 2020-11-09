@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/Util.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/PrimeFaces.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/web/WEB-INF/login.xhtml</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/web/META-INF/faces-config.xml</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/web/index2.xhtml</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/DBCon.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/LoginBean.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/IndexBean.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/AuthFilter.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/connection/Coneccion.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/LoginDAO.java</file>
+            <file>file:/home/radagast/NetBeansProjects/JsfExample/JsfExample/JsfExample/src/java/beans/UserBean.java</file>
+        </group>
+    </open-files>
+</project-private>
